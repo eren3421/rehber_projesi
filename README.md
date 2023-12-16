@@ -1,2 +1,2 @@
-# rehber_projesi
+# REHBER UYGULAMASI
 pythonda telefon rehber uygulaması
